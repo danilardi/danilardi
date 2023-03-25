@@ -1,7 +1,6 @@
 ### Halo 👋
 
-Perkenalkan saya **Danil Ardi**.\
-
+Perkenalkan saya **Danil Ardi**.\  
 Saya seorang **Mahasiswa** yang tertarik belajar teknologi😁.\
 
 Lebih lanjut tentang saya:  
