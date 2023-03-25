@@ -4,7 +4,7 @@ Perkenalkan saya **Danil Ardi**
 Seorang **Mahasiswa** biasa yang tertarik belajar teknologi😁  
 
 Lebih lanjut tentang saya:  
-[Linkedin](https://www.linkedin.com/in/danilardi/)  
+[Linkedln](https://www.linkedin.com/in/danilardi/)  
 [Instagram](https://www.instagram.com/danil_ardi/)
 
 <!--
