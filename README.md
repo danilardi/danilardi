@@ -1,4 +1,12 @@
-### Hi there 👋
+### Halo 👋
+
+Perkenalkan saya **Danil Ardi**.\
+
+Saya seorang **Mahasiswa** yang tertarik belajar teknologi😁.\
+
+Lebih lanjut tentang saya:  
+[Linkedin](https://www.linkedin.com/in/danilardi/)  
+[Instagram](https://www.instagram.com/danil_ardi/)
 
 <!--
 **danilardi/danilardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
